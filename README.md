@@ -106,7 +106,7 @@ The Movie Lobby API is a RESTful API designed for managing a collection of movie
 - **URL:** `/movies/:id`
 - **Method:** `DELETE`
 - **Response:**
-  - 204 No Content: Successfully deleted the movie.
+  - 200  Successfully deleted the movie.
 
 ## Testing
 
