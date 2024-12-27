@@ -51,7 +51,7 @@ The Movie Lobby API is a RESTful API designed for managing a collection of movie
 
 ## API Documentation
 
-[text](https://b44ebz6dfl.apidog.io/)
+[Documentation](https://b44ebz6dfl.apidog.io/)
 
 ### Endpoints
 
